@@ -10,8 +10,10 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@element-plus/nuxt": "^1.1.5",
     "@tanstack/vue-virtual": "^3.13.23",
     "echarts": "^6.0.0",
+    "element-plus": "^2.13.7",
     "nuxt": "^4.4.2",
     "vue": "^3.5.32",
     "vue-echarts": "^8.0.1",
