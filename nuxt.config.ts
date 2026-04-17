@@ -7,4 +7,7 @@ export default defineNuxtConfig({
     importStyle: 'css',
   },
   plugins: ['~/plugins/echarts.client.ts'],
+  components: {
+    dirs: [{ path: '~/components', pathPrefix: false }],
+  },
 })
