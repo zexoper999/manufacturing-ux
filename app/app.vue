@@ -18,7 +18,7 @@
         </div>
 
         <div class="nav-group">
-          <span class="nav-group-label">UDAP</span>
+          <span class="nav-group-label">모니터링</span>
           <NuxtLink
             to="/dashboard"
             class="nav-item"
