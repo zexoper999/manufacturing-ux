@@ -6,4 +6,5 @@ export default defineNuxtConfig({
   elementPlus: {
     importStyle: 'css',
   },
+  plugins: ['~/plugins/echarts.client.ts'],
 })
